@@ -1,17 +1,10 @@
-- 👋 Hi, I’m @Thapahemraj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
 Thapahemraj/Thapahemraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ###
 
 <div align="right">
   <a href="mailto:rajjitlai@mail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=rajjitlai@mail.com&logo=gmail&label=&color=050f2c&logoColor=00aeff&labelColor=fff050f2c&style=for-the-badge" height="30" alt="gmail logo"  />
+    <img src="https://avatars.githubusercontent.com/u/108741029?v=4&size=64" height="30" alt="gmail logo"  />
   </a>
 </div>
 
@@ -20,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <div align="center">
-  <img width="180" src="https://media.tenor.com/hJIQKdiU47sAAAAM/rabbit-cute.gif" alt="Rajjit Laishram waving gif">
-  <h1 style="margin: 0;">Hello, I'm Rajjit Laishram 👋🏻</h1>
+  <img width="180" src="https://media.tenor.com/hJIQKdiU47sAAAAM/rabbit-cute.gif" alt="Hemraj Thapa waving gif">
+  <h1 style="margin: 0;">Hello, I'm Hemraj Thapa 👋🏻</h1>
 </div>
 
 # 💫 About Me
@@ -204,13 +197,13 @@ Created **CyanoBactTheme**, a Visual Studio Code theme inspired by Cyberpunk aes
 
 ## 🌐 Online Presence
 
-- **GitHub**: [rajjitlai](https://github.com/rajjitlai)
-- **LinkedIn**: [Rajjit Laishram](https://linkedin.com/in/rajjit-laishram-a03a02255)
-- **Twitter**: [@rajjitlai](https://twitter.com/rajjitlai)
-- **Instagram**: [@rajjitlaishram](https://www.instagram.com/rajjitlaishram/)
-- **Facebook**: [Rajjit Laishram](https://www.facebook.com/rajjitlaishram/)
-- **YouTube**: [RJ Institute](https://www.youtube.com/@rjinstitute.rajjit)
-- **Portfolio**: [rajjitlaishram.netlify.app](https://mypersonalportfolio-rl.netlify.app)
+- **GitHub**: [thapahemraj](https://github.com/thapahemraj)
+- **LinkedIn**: [thapahermaj](https://linkedin.com/in/thapahemraj)
+- **Twitter**: [@thapahermaj](https://twitter.com/thapahemraj)
+- **Instagram**: [thapahemraj](https://www.instagram.com/thapahemraj/)
+- **Facebook**: [thapahemraj](https://www.facebook.com/thapahemraj/)
+- **YouTube**: [RJ HRT Technology](https://www.youtube.com/@hrttechnology)
+- **Portfolio**: [thapahemraj.com.np](https://thapahemraj.com.np/)
 
 ## 📬 Let's Connect!
 
